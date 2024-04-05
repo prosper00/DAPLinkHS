@@ -2,7 +2,7 @@
  * @file    SWD_flash.c
  * @brief   Program target flash through SWD
  */
-#include "swd_host.h"
+#include "SWD_host.h"
 #include "SWD_flash.h"
 
 

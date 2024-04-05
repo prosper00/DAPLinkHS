@@ -2,7 +2,7 @@
  * @file    SWDd_host.c
  * @brief   Host driver for accessing the DAP
  */
-#include "swd_host.h"
+#include "SWD_host.h"
 
 #include "DAP_config.h"
 #include "DAP.h"
